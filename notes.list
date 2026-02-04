@@ -1,0 +1,6 @@
+Scope and Mutability
+Block the curly braces
+var behaves as a global variable or functional variable
+let and const has a block Scope
+Mutability :constant cannot be redefined 
+q. how to take user input with the browser and the terminal?
