@@ -1,14 +1,12 @@
-//npx create-react-app MyApp
-//npm create vite@latest
-
-//functions
 import './App.css' //path likhna pdta h if folder m h toh ./folder name/file name
+import Header from'./components/Header.jsx'
 
 function App() {
 
 
-  return (  //cannot return more than one statement
+  return (
    <div>
+    <Header />  
    <h1>hello kiet</h1>
    <h2>Thanks for Joining</h2> 
 
